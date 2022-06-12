@@ -7,7 +7,7 @@ const Tab4: React.FC = () => {
     <IonPage>
       <IonHeader>
         <IonToolbar color='primary'>
-          <IonTitle>Album</IonTitle>
+          <IonTitle>Albumpoi</IonTitle>
         </IonToolbar>
       </IonHeader>
       <IonContent fullscreen>
